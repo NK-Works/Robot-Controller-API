@@ -1,0 +1,32 @@
+﻿{{> imports}}
+
+namespace {{namespace}}
+{
+    {{#if comment}}
+    /// <summary>
+{{comment}}
+    /// </summary>
+    {{/if}}
+    {{#each class-annotations}}
+    {{{class-annotation}}}
+    {{/each}}
+    public class {{class}}
+    {
+        {{{> properties}}}
+        {{{> constructor}}}
+
+        // Empty constructor // Writing this for the demo proof
+        public {{class}}() 
+        { 
+            // Empty      
+        }
+        
+        // Parameterised Constructor
+        public {{class}}({{#each properties}}{{property-type}} {{camelCase-for-constructor-args}}{{#unless @last}}, {{/unless}}{{/each}})
+        {
+            {{#each properties}}
+            {{PascalCase-for-property-name}} = {{camelCase-for-constructor-args}};
+            {{/each}}
+        }
+    }
+}

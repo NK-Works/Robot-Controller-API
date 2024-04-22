@@ -1,0 +1,1 @@
+The tests are made for Bcrypt Authentication and Authorisation and will not work with Argon2 Authentication Authorisation

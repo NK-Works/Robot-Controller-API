@@ -1,0 +1,354 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>robot-controller-api</name>
+    </assembly>
+    <members>
+        <member name="M:robot_controller_api.Controllers.MapsController.GetAllMaps">
+            <summary>
+            Retrieves all existing maps.
+            </summary>
+            <returns>All maps.</returns>
+            <remarks>
+            Sample request: 
+            
+            GET /api/maps
+            
+            </remarks>
+            <response code="200">Returns all the maps.</response>
+        </member>
+        <member name="M:robot_controller_api.Controllers.MapsController.GetSquareMaps">
+            <summary>
+            Retrieves maps where columns equal rows.
+            </summary>
+            <returns>Maps where columns equal rows.</returns>
+            <remarks> 
+            Sample request: 
+            
+            GET /api/maps/square
+            
+            </remarks>
+            <response code="200">Returns maps that are square.</response>
+        </member>
+        <member name="M:robot_controller_api.Controllers.MapsController.GetMapById(System.Int32)">
+            <summary>
+            Retrieves a map by its ID.
+            </summary>
+            <param name="id">The ID of the map to be fetched.</param>
+            <returns>The map with the specified ID.</returns>
+            <remarks> 
+            Sample request: 
+            
+            GET /api/maps/{id}
+            
+            </remarks>
+            <response code="200">Returns the map with the specified ID.</response>
+            <response code="404">If the map with the specified ID is not found.</response>
+        </member>
+        <member name="M:robot_controller_api.Controllers.MapsController.AddMap(robot_controller_api.Models.Map)">
+            <summary>
+            Creates a new map.
+            </summary>
+            <param name="newMap">A new map from the HTTP request.</param>
+            <returns>A newly created map.</returns>
+            <remarks> 
+            Sample request: 
+            
+            POST /api/maps
+            {
+                "columns: 10,
+                "rows": 10,
+                "name": "10 Map", 
+                "description": "Basic Moon Map" 
+            }  
+            
+            </remarks> 
+            <response code="201">Returns the newly created map</response>
+            <response code="400">If the map is null</response> 
+            <response code="409">If a map with the same name already exists.</response>
+        </member>
+        <member name="M:robot_controller_api.Controllers.MapsController.UpdateMap(System.Int32,robot_controller_api.Models.Map)">
+            <summary>
+            Updates an already existing map.
+            </summary>
+            <param name="id">The ID of the map to update.</param>
+            <param name="updatedMap">The updated information for the map.</param>
+            <returns>No content if the update is successful.</returns>
+            <remarks> 
+            Sample request: 
+            
+            PUT /api/maps/{id}
+            {
+                "id": {id},
+                "columns: 100,
+                "rows": 100,
+                "name": "100 Map", 
+                "description": "Updated Moon Map" 
+            }  
+            
+            </remarks> 
+            <response code="204">No content if the update is successful.</response>
+            <response code="400">If the provided data is invalid.</response>
+            <response code="404">If the map with the specified ID is not found.</response>
+        </member>
+        <member name="M:robot_controller_api.Controllers.MapsController.DeleteMap(System.Int32)">
+            <summary>
+            Deletes a map by its ID.
+            </summary>
+            <param name="id">The ID of the map to delete.</param>
+            <returns>No content if the deletion is successful.</returns>
+            <remarks> 
+            Sample request: 
+            
+            DELETE /api/maps/{id}
+            
+            </remarks>
+            <response code="204">No content if the deletion is successful.</response>
+            <response code="404">If the map with the specified ID is not found.</response>
+        </member>
+        <member name="M:robot_controller_api.Controllers.MapsController.CheckCoordinate(System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Checks if the given coordinate (x, y) is on the map with the specified ID.
+            </summary>
+            <param name="id">The ID of the map to check.</param>
+            <param name="x">The x-coordinate to check.</param>
+            <param name="y">The y-coordinate to check.</param>
+            <returns>True if the coordinate is on the map; otherwise, false.</returns>
+            <remarks> 
+            Sample request: 
+            
+            GET /api/maps/{id}/{x}-{y}
+            
+            </remarks>
+            <response code="200">Returns true if the coordinate is present in the map with the specified else false.</response>
+            <response code="400">If the provided map coordinated is invalid.</response>
+            <response code="404">If the specified map is not found.</response>
+        </member>
+        <member name="M:robot_controller_api.Controllers.RobotCommandsController.GetAllRobotCommands">
+            <summary>
+            Retrieves all existing robot commands.
+            </summary>
+            <returns>All robot commands.</returns>
+            <remarks> 
+            Sample request: 
+            
+            GET /api/robot-commands
+            
+            </remarks>
+            <response code="200">Returns all the robot commands.</response>
+        </member>
+        <member name="M:robot_controller_api.Controllers.RobotCommandsController.GetMoveCommandsOnly">
+            <summary>
+            Retrieves only move commands among all robot commands.
+            </summary>
+            <returns>Move robot commands.</returns>
+            <remarks> 
+            Sample request: 
+            
+            GET /api/robot-commands/move
+            
+            </remarks>
+            <response code="200">Returns all the robot move commands.</response>
+        </member>
+        <member name="M:robot_controller_api.Controllers.RobotCommandsController.GetRobotCommandById(System.Int32)">
+            <summary>
+            Retreives a robot command by its ID.
+            </summary>
+            <param name="id">The ID of the robot command to be fetched.</param>
+            <returns>The robot command with the specified ID.</returns>
+            <remarks> 
+            Sample request: 
+            
+            GET /api/robot-commands/{id}
+            
+            </remarks>
+            <response code="200">Returns the robot command.</response>
+            <response code="404">If the robot command with the specified ID is not found.</response>
+        </member>
+        <member name="M:robot_controller_api.Controllers.RobotCommandsController.AddRobotCommand(robot_controller_api.Models.RobotCommand)">
+            <summary> 
+            Creates a robot command. 
+            </summary> 
+            <param name="newCommand">A new robot command from the HTTP request.</param> 
+            <returns>A newly created robot command</returns> 
+            <remarks> 
+            Sample request: 
+            
+            POST /api/robot-commands
+            {
+                "name": "JUMP", 
+                "isMoveCommand": true, 
+                "description": "Jump on the Moon" 
+            }  
+            
+            </remarks> 
+            <response code="201">Returns the newly created robot command</response>
+            <response code="400">If the robot command is null</response> 
+            <response code="409">If a robot command with the same name already exists.</response>
+        </member>
+        <member name="M:robot_controller_api.Controllers.RobotCommandsController.UpdateRobotCommand(System.Int32,robot_controller_api.Models.RobotCommand)">
+            <summary>
+            Updates an already existing robot command.
+            </summary>
+            <param name="id">The ID of the robot command to update.</param>
+            <param name="updatedCommand">The updated information for the robot command.</param>
+            <returns>No content if the update is successful.</returns>
+            <remarks> 
+            Sample request: 
+            
+            PUT /api/robot-commands/{id}
+            {
+                "id": {id},
+                "name": "BLINK", 
+                "isMoveCommand": false, 
+                "description": "Lights on the moon" 
+            }  
+            
+            </remarks> 
+            <response code="204">No content if the update is successful.</response>
+            <response code="400">If the provided data is invalid.</response>
+            <response code="404">If the robot command with the specified ID is not found.</response>
+        </member>
+        <member name="M:robot_controller_api.Controllers.RobotCommandsController.DeleteRobotCommand(System.Int32)">
+            <summary>
+            Deletes a robot command by its ID.
+            </summary>
+            <param name="id">The ID of the robot command to delete.</param>
+            <returns>No content if the deletion is successful.</returns>
+            <remarks> 
+            Sample request: 
+            
+            DELETE /api/robot-commands/{id}
+            
+            </remarks>
+            <response code="204">No content if the deletion is successful.</response>
+            <response code="404">If the robot command with the specified ID is not found.</response>
+        </member>
+        <member name="M:robot_controller_api.Controllers.UsersController.GetUsers">
+            <summary>
+            Retrieves all existing users.
+            </summary>
+            <returns>All users.</returns>
+            <remarks>
+            Sample request: 
+            
+            GET /api/users
+            
+            </remarks>
+            <response code="200">Returns all the users.</response>
+        </member>
+        <member name="M:robot_controller_api.Controllers.UsersController.GetAdminUsers">
+            <summary>
+            Retrieves all the users with "Admin" privilege.
+            </summary>
+            <returns>Users who are "Admin".</returns>
+            <remarks> 
+            Sample request: 
+            
+            GET /api/users/admin
+            
+            </remarks>
+            <response code="200">Returns the users with "Admin" status..</response>
+        </member>
+        <member name="M:robot_controller_api.Controllers.UsersController.GetUserById(System.Int32)">
+            <summary>
+            Retrieves a user by his/her ID.
+            </summary>
+            <param name="id">The ID of the user to be fetched.</param>
+            <returns>The user with the specified ID.</returns>
+            <remarks> 
+            Sample request: 
+            
+            GET /api/users/{id}
+            
+            </remarks>
+            <response code="200">Returns the user with the specified ID.</response>
+            <response code="404">If the user with the specified ID is not found.</response>
+        </member>
+        <member name="M:robot_controller_api.Controllers.UsersController.AddUser(robot_controller_api.Models.User)">
+            <summary>
+            Creates a new user.
+            </summary>
+            <param name="newUser">A new user from the HTTP request.</param>
+            <returns>A newly created user.</returns>
+            <remarks> 
+            Sample request: 
+            
+            POST /api/users
+            {
+                "Email": "anneshu123@gmail.com",
+                "FirstName": "Never",
+                "LastName": "Know",
+                "PasswordHash": "password",
+                "Role": "Admin"
+            }
+            
+            </remarks> 
+            <response code="201">Returns the newly created user</response>
+            <response code="400">If the user is null</response> 
+            <response code="409">If a user with the same name already exists.</response>
+        </member>
+        <member name="M:robot_controller_api.Controllers.UsersController.UpdateUser(System.Int32,robot_controller_api.Models.User)">
+            <summary>
+            Updates an already existing user.
+            </summary>
+            <param name="id">The ID of the user to update.</param>
+            <param name="updatedUser">The updated information for the user.</param>
+            <returns>No content if the update is successful.</returns>
+            <remarks> 
+            Sample request: 
+            
+            PUT /api/users/{id}
+            {
+                "Id": 2,
+                "FirstName": "Neverkkkk",
+                "LastName": "Know",
+                "Role": "User"
+            }
+            
+            Changing the Username i.e. Email and Password is not possible through this request.
+            Changing those fields will not be allowed.
+            
+            </remarks> 
+            <response code="204">No content if the update is successful.</response>
+            <response code="400">If the provided data is invalid.</response>
+            <response code="404">If the user with the specified ID is not found.</response>
+        </member>
+        <member name="M:robot_controller_api.Controllers.UsersController.DeleteUser(System.Int32)">
+            <summary>
+            Deletes a user by its ID.
+            </summary>
+            <param name="id">The ID of the user to delete.</param>
+            <returns>No content if the deletion is successful.</returns>
+            <remarks> 
+            Sample request: 
+            
+            DELETE /api/users/{id}
+            
+            </remarks>
+            <response code="204">No content if the deletion is successful.</response>
+            <response code="404">If the user with the specified ID is not found.</response>
+        </member>
+        <member name="M:robot_controller_api.Controllers.UsersController.UpdateUserCredentials(System.Int32,robot_controller_api.Models.LoginModel)">
+            <summary>
+            Updates the email and password of an already existing user.
+            </summary>
+            <param name="id">The ID of the user to update.</param>
+            <param name="loginModel">The updated email and password for the user.</param>
+            <returns>No content if the update is successful.</returns>
+            <remarks> 
+            Sample request: 
+            
+            PATCH /api/users/{id}
+            {
+                "Id": 2,
+                "Email": "anneshu@gmail.com",
+                "Password": "password"
+            }
+            
+            </remarks> 
+            <response code="204">No content if the update is successful.</response>
+            <response code="404">If the user with the specified ID is not found.</response>
+        </member>
+    </members>
+</doc>

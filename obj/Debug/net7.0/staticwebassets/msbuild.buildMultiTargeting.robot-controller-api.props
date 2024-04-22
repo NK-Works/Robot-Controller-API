@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\robot-controller-api.props" />
+</Project>

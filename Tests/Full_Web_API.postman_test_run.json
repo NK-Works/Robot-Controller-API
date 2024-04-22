@@ -1,0 +1,1688 @@
+{
+	"id": "369cf7a1-9357-49b0-8989-956781fde5b5",
+	"name": "Full_Web_API",
+	"timestamp": "2024-04-22T21:12:42.588Z",
+	"collection_id": "33045955-d2aafd06-394c-420f-beac-fcce2cb94cd8",
+	"folder_id": 0,
+	"environment_id": "33045955-b5ffd129-23c3-491a-b4a4-e3f4979ca5d8",
+	"totalPass": 161,
+	"delay": 0,
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2024-04-22T21:12:16.294Z",
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "62179f8b-7d28-49f4-98d9-389749b9c8f5",
+			"name": "all-robot-commands",
+			"url": "http://localhost:5082/api/robot-commands",
+			"time": 7264,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Response status code is 200": true,
+				"Content-Type is application/json": true,
+				"Id field is a non-negative integer": true,
+				"Name field should be a non-empty string": true,
+				"IsMoveCommand field is a boolean value": true,
+				"Response body contains an array of robot commands": true,
+				"Each command in the commands contains valid properties": true,
+				"Check if the URL entered is correct": true
+			},
+			"testPassFailCounts": {
+				"Response status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is application/json": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Id field is a non-negative integer": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Name field should be a non-empty string": {
+					"pass": 1,
+					"fail": 0
+				},
+				"IsMoveCommand field is a boolean value": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response body contains an array of robot commands": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Each command in the commands contains valid properties": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Check if the URL entered is correct": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				7264
+			],
+			"allTests": [
+				{
+					"Response status code is 200": true,
+					"Content-Type is application/json": true,
+					"Id field is a non-negative integer": true,
+					"Name field should be a non-empty string": true,
+					"IsMoveCommand field is a boolean value": true,
+					"Response body contains an array of robot commands": true,
+					"Each command in the commands contains valid properties": true,
+					"Check if the URL entered is correct": true
+				}
+			]
+		},
+		{
+			"id": "ee1e31e3-fc77-4e86-bc28-4c9a54018f83",
+			"name": "move-robot-commands",
+			"url": "http://localhost:5082/api/robot-commands/move",
+			"time": 1479,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Response status code is 200": true,
+				"Content-Type is application/json": true,
+				"Id is a non-negative integer": true,
+				"Name is a non-empty string": true,
+				"IsMoveCommand is a boolean value": true,
+				"Response body contains an array of robot commands": true,
+				"Each command in the commands contains valid properties": true,
+				"Check if the URL entered is correct": true
+			},
+			"testPassFailCounts": {
+				"Response status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is application/json": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Id is a non-negative integer": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Name is a non-empty string": {
+					"pass": 1,
+					"fail": 0
+				},
+				"IsMoveCommand is a boolean value": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response body contains an array of robot commands": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Each command in the commands contains valid properties": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Check if the URL entered is correct": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				1479
+			],
+			"allTests": [
+				{
+					"Response status code is 200": true,
+					"Content-Type is application/json": true,
+					"Id is a non-negative integer": true,
+					"Name is a non-empty string": true,
+					"IsMoveCommand is a boolean value": true,
+					"Response body contains an array of robot commands": true,
+					"Each command in the commands contains valid properties": true,
+					"Check if the URL entered is correct": true
+				}
+			]
+		},
+		{
+			"id": "a71bab82-0c57-4e10-af01-04d238ce2e8d",
+			"name": "read-robot-command",
+			"url": "http://localhost:5082/api/robot-commands/1",
+			"time": 764,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Response status code is 200": true,
+				"Response has the required fields": true,
+				"Name is a non-empty string": true,
+				"Description is either null or a non-empty string": true,
+				"Created date is in valid date format": true,
+				"Modified date is in valid date format": true,
+				"Response body contains an object of robot command": true,
+				"The robot command contains valid properties": true
+			},
+			"testPassFailCounts": {
+				"Response status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response has the required fields": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Name is a non-empty string": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Description is either null or a non-empty string": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Created date is in valid date format": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Modified date is in valid date format": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response body contains an object of robot command": {
+					"pass": 1,
+					"fail": 0
+				},
+				"The robot command contains valid properties": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				764
+			],
+			"allTests": [
+				{
+					"Response status code is 200": true,
+					"Response has the required fields": true,
+					"Name is a non-empty string": true,
+					"Description is either null or a non-empty string": true,
+					"Created date is in valid date format": true,
+					"Modified date is in valid date format": true,
+					"Response body contains an object of robot command": true,
+					"The robot command contains valid properties": true
+				}
+			]
+		},
+		{
+			"id": "57eefe12-bb57-4a6d-926f-5c8885aed671",
+			"name": "create-robot-command",
+			"url": "http://localhost:5082/api/robot-commands",
+			"time": 1909,
+			"responseCode": {
+				"code": 201,
+				"name": "Created"
+			},
+			"tests": {
+				"Response status code is 201": true,
+				"Response has the required fields": true,
+				"Name and description are non-empty strings": true,
+				"IsMoveCommand is a boolean value": true
+			},
+			"testPassFailCounts": {
+				"Response status code is 201": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response has the required fields": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Name and description are non-empty strings": {
+					"pass": 1,
+					"fail": 0
+				},
+				"IsMoveCommand is a boolean value": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				1909
+			],
+			"allTests": [
+				{
+					"Response status code is 201": true,
+					"Response has the required fields": true,
+					"Name and description are non-empty strings": true,
+					"IsMoveCommand is a boolean value": true
+				}
+			]
+		},
+		{
+			"id": "a27e47ff-804f-488b-9735-b9807c831c2f",
+			"name": "update-robot-command",
+			"url": "http://localhost:5082/api/robot-commands/6",
+			"time": 581,
+			"responseCode": {
+				"code": 204,
+				"name": "No Content"
+			},
+			"tests": {
+				"Response status code is 204": true,
+				"Content-Type header should not exist": true,
+				"Response body is null or empty": true,
+				"Verify the request URL pattern is correct": true
+			},
+			"testPassFailCounts": {
+				"Response status code is 204": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type header should not exist": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response body is null or empty": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Verify the request URL pattern is correct": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				581
+			],
+			"allTests": [
+				{
+					"Response status code is 204": true,
+					"Content-Type header should not exist": true,
+					"Response body is null or empty": true,
+					"Verify the request URL pattern is correct": true
+				}
+			]
+		},
+		{
+			"id": "c3bda406-61c3-41da-b16f-cdfbecd189a5",
+			"name": "delete-robot-command",
+			"url": "http://localhost:5082/api/robot-commands/6",
+			"time": 445,
+			"responseCode": {
+				"code": 204,
+				"name": "No Content"
+			},
+			"tests": {
+				"Response status code is 204": true,
+				"Content-Type header should not exist": true,
+				"Response body is null": true,
+				"Validate that the request has been successfully processed and the resource has been deleted": true,
+				"Ensure that the response does not contain any data or error message": true
+			},
+			"testPassFailCounts": {
+				"Response status code is 204": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type header should not exist": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response body is null": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Validate that the request has been successfully processed and the resource has been deleted": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Ensure that the response does not contain any data or error message": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				445
+			],
+			"allTests": [
+				{
+					"Response status code is 204": true,
+					"Content-Type header should not exist": true,
+					"Response body is null": true,
+					"Validate that the request has been successfully processed and the resource has been deleted": true,
+					"Ensure that the response does not contain any data or error message": true
+				}
+			]
+		},
+		{
+			"id": "ff6e80d8-cdfe-40fc-990d-1ea2ef0676ff",
+			"name": "all-maps",
+			"url": "http://localhost:5082/api/maps",
+			"time": 135,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Response status code is 200": true,
+				"Id is a non-negative integer": true,
+				"IsSquare field is a boolean value": true,
+				"Response body contains an array of maps": true,
+				"Each map in the maps contains valid properties": true,
+				"Check if the URL entered is correct": true
+			},
+			"testPassFailCounts": {
+				"Response status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Id is a non-negative integer": {
+					"pass": 1,
+					"fail": 0
+				},
+				"IsSquare field is a boolean value": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response body contains an array of maps": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Each map in the maps contains valid properties": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Check if the URL entered is correct": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				135
+			],
+			"allTests": [
+				{
+					"Response status code is 200": true,
+					"Id is a non-negative integer": true,
+					"IsSquare field is a boolean value": true,
+					"Response body contains an array of maps": true,
+					"Each map in the maps contains valid properties": true,
+					"Check if the URL entered is correct": true
+				}
+			]
+		},
+		{
+			"id": "a5d290be-aa69-4231-8a8a-99f5b28158b1",
+			"name": "square-maps",
+			"url": "http://localhost:5082/api/maps/square",
+			"time": 441,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Response status code is 200": true,
+				"Content-Type header is application/json": true,
+				"Id is a non-negative integer": true,
+				"Name is a non-empty string": true,
+				"IsSquare property is a boolean value": true,
+				"Response body contains an array of maps": true,
+				"Each map in the maps contains valid properties": true,
+				"Check if the URL entered is correct": true
+			},
+			"testPassFailCounts": {
+				"Response status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type header is application/json": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Id is a non-negative integer": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Name is a non-empty string": {
+					"pass": 1,
+					"fail": 0
+				},
+				"IsSquare property is a boolean value": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response body contains an array of maps": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Each map in the maps contains valid properties": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Check if the URL entered is correct": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				441
+			],
+			"allTests": [
+				{
+					"Response status code is 200": true,
+					"Content-Type header is application/json": true,
+					"Id is a non-negative integer": true,
+					"Name is a non-empty string": true,
+					"IsSquare property is a boolean value": true,
+					"Response body contains an array of maps": true,
+					"Each map in the maps contains valid properties": true,
+					"Check if the URL entered is correct": true
+				}
+			]
+		},
+		{
+			"id": "fc82bbe1-4b6f-41e8-831a-f31a575f964e",
+			"name": "read-map",
+			"url": "http://localhost:5082/api/maps/1",
+			"time": 614,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Response status code is 200": true,
+				"Name and description must be non-empty strings": true,
+				"Content-Type is application/json": true,
+				"Response body contains an object of map": true,
+				"The map contains valid properties": true
+			},
+			"testPassFailCounts": {
+				"Response status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Name and description must be non-empty strings": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is application/json": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response body contains an object of map": {
+					"pass": 1,
+					"fail": 0
+				},
+				"The map contains valid properties": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				614
+			],
+			"allTests": [
+				{
+					"Response status code is 200": true,
+					"Name and description must be non-empty strings": true,
+					"Content-Type is application/json": true,
+					"Response body contains an object of map": true,
+					"The map contains valid properties": true
+				}
+			]
+		},
+		{
+			"id": "089605b2-21d7-4fa5-a9d8-325d3893abab",
+			"name": "create-map",
+			"url": "http://localhost:5082/api/maps",
+			"time": 483,
+			"responseCode": {
+				"code": 201,
+				"name": "Created"
+			},
+			"tests": {
+				"Response status code is 201": true,
+				"Name and description must be non-empty strings": true,
+				"IsSquare field is either null or a boolean value": true
+			},
+			"testPassFailCounts": {
+				"Response status code is 201": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Name and description must be non-empty strings": {
+					"pass": 1,
+					"fail": 0
+				},
+				"IsSquare field is either null or a boolean value": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				483
+			],
+			"allTests": [
+				{
+					"Response status code is 201": true,
+					"Name and description must be non-empty strings": true,
+					"IsSquare field is either null or a boolean value": true
+				}
+			]
+		},
+		{
+			"id": "cf0e9e73-936d-4da8-8d68-ad59353941f0",
+			"name": "update-map",
+			"url": "http://localhost:5082/api/maps/4",
+			"time": 389,
+			"responseCode": {
+				"code": 204,
+				"name": "No Content"
+			},
+			"tests": {
+				"Response status code is 204": true,
+				"Content-Type header should not exist": true,
+				"Response body should be null": true,
+				"Verify that the HTTP method used is PUT": true,
+				"Validate that the response body is empty": true,
+				"Verify the request URL pattern is correct": true
+			},
+			"testPassFailCounts": {
+				"Response status code is 204": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type header should not exist": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response body should be null": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Verify that the HTTP method used is PUT": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Validate that the response body is empty": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Verify the request URL pattern is correct": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				389
+			],
+			"allTests": [
+				{
+					"Response status code is 204": true,
+					"Content-Type header should not exist": true,
+					"Response body should be null": true,
+					"Verify that the HTTP method used is PUT": true,
+					"Validate that the response body is empty": true,
+					"Verify the request URL pattern is correct": true
+				}
+			]
+		},
+		{
+			"id": "9f43da9a-9912-44b3-bde8-5c101616ffc0",
+			"name": "delete-map",
+			"url": "http://localhost:5082/api/maps/4",
+			"time": 356,
+			"responseCode": {
+				"code": 204,
+				"name": "No Content"
+			},
+			"tests": {
+				"Response status code is 204": true,
+				"Content-Type header should not exist": true,
+				"Response body is null": true,
+				"Verify that the response does not contain any sensitive information": true
+			},
+			"testPassFailCounts": {
+				"Response status code is 204": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type header should not exist": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response body is null": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Verify that the response does not contain any sensitive information": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				356
+			],
+			"allTests": [
+				{
+					"Response status code is 204": true,
+					"Content-Type header should not exist": true,
+					"Response body is null": true,
+					"Verify that the response does not contain any sensitive information": true
+				}
+			]
+		},
+		{
+			"id": "8a21d96d-62bb-4003-a3e2-264997020bd9",
+			"name": "check-coordinate",
+			"url": "http://localhost:5082/api/maps/1/0-0",
+			"time": 359,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Response status code is 200": true,
+				"Response content type is application/json": true,
+				"Response body is a boolean value": true,
+				"Response body is true": true,
+				"Endpoint for switching the map has been changed successfully": true
+			},
+			"testPassFailCounts": {
+				"Response status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response content type is application/json": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response body is a boolean value": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response body is true": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Endpoint for switching the map has been changed successfully": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				359
+			],
+			"allTests": [
+				{
+					"Response status code is 200": true,
+					"Response content type is application/json": true,
+					"Response body is a boolean value": true,
+					"Response body is true": true,
+					"Endpoint for switching the map has been changed successfully": true
+				}
+			]
+		},
+		{
+			"id": "9ff21f08-e174-4e5b-8dbe-50bce465aa27",
+			"name": "get-all-users",
+			"url": "http://localhost:5082/api/users",
+			"time": 49,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Response status code is 200": true,
+				"Response has the required fields": true,
+				"Email is in a valid format": true,
+				"Description is either null or a non-empty string": true,
+				"Role is a valid role type": true,
+				"Response body contains an array of users": true,
+				"Each user in the users contains valid properties": true,
+				"Check if the URL entered is correct": true
+			},
+			"testPassFailCounts": {
+				"Response status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response has the required fields": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Email is in a valid format": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Description is either null or a non-empty string": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Role is a valid role type": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response body contains an array of users": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Each user in the users contains valid properties": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Check if the URL entered is correct": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				49
+			],
+			"allTests": [
+				{
+					"Response status code is 200": true,
+					"Response has the required fields": true,
+					"Email is in a valid format": true,
+					"Description is either null or a non-empty string": true,
+					"Role is a valid role type": true,
+					"Response body contains an array of users": true,
+					"Each user in the users contains valid properties": true,
+					"Check if the URL entered is correct": true
+				}
+			]
+		},
+		{
+			"id": "8a9812e4-78cc-4f64-a783-c547d2cee1b1",
+			"name": "add-new-user",
+			"url": "http://localhost:5082/api/users",
+			"time": 563,
+			"responseCode": {
+				"code": 201,
+				"name": "Created"
+			},
+			"tests": {
+				"Response status code is 201": true,
+				"Email is in a valid format": true,
+				"Description is either null or a non-empty string": true,
+				"Role is a non-empty string": true
+			},
+			"testPassFailCounts": {
+				"Response status code is 201": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Email is in a valid format": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Description is either null or a non-empty string": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Role is a non-empty string": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				563
+			],
+			"allTests": [
+				{
+					"Response status code is 201": true,
+					"Email is in a valid format": true,
+					"Description is either null or a non-empty string": true,
+					"Role is a non-empty string": true
+				}
+			]
+		},
+		{
+			"id": "93a708b3-bfe5-43bd-82ed-d6e51b878a86",
+			"name": "update-user-details",
+			"url": "http://localhost:5082/api/users/3",
+			"time": 439,
+			"responseCode": {
+				"code": 204,
+				"name": "No Content"
+			},
+			"tests": {
+				"Response status code is 204": true,
+				"Content-Type header should not exist": true,
+				"Response body is null": true,
+				"Verify the request URL pattern is correct": true,
+				"Verify that the response body is empty": true
+			},
+			"testPassFailCounts": {
+				"Response status code is 204": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type header should not exist": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response body is null": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Verify the request URL pattern is correct": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Verify that the response body is empty": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				439
+			],
+			"allTests": [
+				{
+					"Response status code is 204": true,
+					"Content-Type header should not exist": true,
+					"Response body is null": true,
+					"Verify the request URL pattern is correct": true,
+					"Verify that the response body is empty": true
+				}
+			]
+		},
+		{
+			"id": "9297a11c-9921-43ef-8e3a-b812fc5b5d7e",
+			"name": "update-user-credentials",
+			"url": "http://localhost:5082/api/users/3",
+			"time": 756,
+			"responseCode": {
+				"code": 204,
+				"name": "No Content"
+			},
+			"tests": {
+				"Response status code is 204": true,
+				"Content-Type header should not exist": true,
+				"Verify that the response body is empty or null": true,
+				"No specific headers are present in the response": true,
+				"Confirm the request has been successfully processed without any data being returned": true
+			},
+			"testPassFailCounts": {
+				"Response status code is 204": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type header should not exist": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Verify that the response body is empty or null": {
+					"pass": 1,
+					"fail": 0
+				},
+				"No specific headers are present in the response": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Confirm the request has been successfully processed without any data being returned": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				756
+			],
+			"allTests": [
+				{
+					"Response status code is 204": true,
+					"Content-Type header should not exist": true,
+					"Verify that the response body is empty or null": true,
+					"No specific headers are present in the response": true,
+					"Confirm the request has been successfully processed without any data being returned": true
+				}
+			]
+		},
+		{
+			"id": "c7cc297f-64c9-4d5e-bf83-9650dd1d14e7",
+			"name": "delete-user",
+			"url": "http://localhost:5082/api/users/3",
+			"time": 403,
+			"responseCode": {
+				"code": 204,
+				"name": "No Content"
+			},
+			"tests": {
+				"Response status code is 204": true,
+				"Content-Type header should not exist": true,
+				"Response body is null": true,
+				"Verify that user with the given ID is deleted from the system": true,
+				"Ensure response does not contain sensitive information": true
+			},
+			"testPassFailCounts": {
+				"Response status code is 204": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type header should not exist": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response body is null": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Verify that user with the given ID is deleted from the system": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Ensure response does not contain sensitive information": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				403
+			],
+			"allTests": [
+				{
+					"Response status code is 204": true,
+					"Content-Type header should not exist": true,
+					"Response body is null": true,
+					"Verify that user with the given ID is deleted from the system": true,
+					"Ensure response does not contain sensitive information": true
+				}
+			]
+		},
+		{
+			"id": "feea8f7c-2ca8-468a-a65e-31b53827d3ad",
+			"name": "get-admin-users",
+			"url": "http://localhost:5082/api/users/admin",
+			"time": 408,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Response status code is 200": true,
+				"Response has the required fields": true,
+				"Email is in a valid format": true,
+				"Role is a non-empty string": true,
+				"Response body contains an array of users": true,
+				"Each user in the users contains valid properties": true,
+				"Check if the URL entered is correct": true
+			},
+			"testPassFailCounts": {
+				"Response status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response has the required fields": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Email is in a valid format": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Role is a non-empty string": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response body contains an array of users": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Each user in the users contains valid properties": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Check if the URL entered is correct": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				408
+			],
+			"allTests": [
+				{
+					"Response status code is 200": true,
+					"Response has the required fields": true,
+					"Email is in a valid format": true,
+					"Role is a non-empty string": true,
+					"Response body contains an array of users": true,
+					"Each user in the users contains valid properties": true,
+					"Check if the URL entered is correct": true
+				}
+			]
+		},
+		{
+			"id": "90386582-39fb-497a-b574-91509537a6d1",
+			"name": "get-user-by-id",
+			"url": "http://localhost:5082/api/users/2",
+			"time": 352,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Response status code is 200": true,
+				"Response has the required fields": true,
+				"Email is in a valid format": true,
+				"Description is either null or a non-empty string": true,
+				"Response body contains an object of user": true,
+				"The user contains valid properties": true
+			},
+			"testPassFailCounts": {
+				"Response status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response has the required fields": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Email is in a valid format": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Description is either null or a non-empty string": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response body contains an object of user": {
+					"pass": 1,
+					"fail": 0
+				},
+				"The user contains valid properties": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				352
+			],
+			"allTests": [
+				{
+					"Response status code is 200": true,
+					"Response has the required fields": true,
+					"Email is in a valid format": true,
+					"Description is either null or a non-empty string": true,
+					"Response body contains an object of user": true,
+					"The user contains valid properties": true
+				}
+			]
+		},
+		{
+			"id": "0d49d914-31b4-4c3f-9ddb-777055f3b6b2",
+			"name": "create-robot-command-with-var",
+			"url": "http://localhost:5082/api/robot-commands",
+			"time": 354,
+			"responseCode": {
+				"code": 201,
+				"name": "Created"
+			},
+			"tests": {
+				"Response status code is 201": true,
+				"Response has the required fields": true,
+				"Name and description are non-empty strings": true,
+				"IsMoveCommand is a boolean value": true,
+				"Response body is not empty": true,
+				"Response body contains the newly created robot command": true,
+				"Test newly created command name": true,
+				"Check a newly created resource URL to be in the Location HTTP header": true
+			},
+			"testPassFailCounts": {
+				"Response status code is 201": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response has the required fields": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Name and description are non-empty strings": {
+					"pass": 1,
+					"fail": 0
+				},
+				"IsMoveCommand is a boolean value": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response body is not empty": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response body contains the newly created robot command": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Test newly created command name": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Check a newly created resource URL to be in the Location HTTP header": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				354
+			],
+			"allTests": [
+				{
+					"Response status code is 201": true,
+					"Response has the required fields": true,
+					"Name and description are non-empty strings": true,
+					"IsMoveCommand is a boolean value": true,
+					"Response body is not empty": true,
+					"Response body contains the newly created robot command": true,
+					"Test newly created command name": true,
+					"Check a newly created resource URL to be in the Location HTTP header": true
+				}
+			]
+		},
+		{
+			"id": "365e1112-964c-4524-925f-26706326da03",
+			"name": "update-robot-command-using-var",
+			"url": "http://localhost:5082/api/robot-commands/7",
+			"time": 293,
+			"responseCode": {
+				"code": 204,
+				"name": "No Content"
+			},
+			"tests": {
+				"Response status code is 204": true,
+				"Content-Type header should not exist": true,
+				"Response body is null or empty": true,
+				"Verify the request URL pattern is correct": true
+			},
+			"testPassFailCounts": {
+				"Response status code is 204": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type header should not exist": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response body is null or empty": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Verify the request URL pattern is correct": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				293
+			],
+			"allTests": [
+				{
+					"Response status code is 204": true,
+					"Content-Type header should not exist": true,
+					"Response body is null or empty": true,
+					"Verify the request URL pattern is correct": true
+				}
+			]
+		},
+		{
+			"id": "876f89ff-af2f-44f9-9b5f-cefdef0e4199",
+			"name": "create-map-using-var",
+			"url": "http://localhost:5082/api/maps",
+			"time": 395,
+			"responseCode": {
+				"code": 201,
+				"name": "Created"
+			},
+			"tests": {
+				"Response status code is 201": true,
+				"Name and description must be non-empty strings": true,
+				"IsSquare field is either null or a boolean value": true,
+				"Response body is not empty": true,
+				"Response body contains the newly created map": true,
+				"Test newly created map name": true,
+				"Check a newly created resource URL to be in the Location HTTP header": true
+			},
+			"testPassFailCounts": {
+				"Response status code is 201": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Name and description must be non-empty strings": {
+					"pass": 1,
+					"fail": 0
+				},
+				"IsSquare field is either null or a boolean value": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response body is not empty": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response body contains the newly created map": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Test newly created map name": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Check a newly created resource URL to be in the Location HTTP header": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				395
+			],
+			"allTests": [
+				{
+					"Response status code is 201": true,
+					"Name and description must be non-empty strings": true,
+					"IsSquare field is either null or a boolean value": true,
+					"Response body is not empty": true,
+					"Response body contains the newly created map": true,
+					"Test newly created map name": true,
+					"Check a newly created resource URL to be in the Location HTTP header": true
+				}
+			]
+		},
+		{
+			"id": "f70fd3e1-e26a-4878-836e-299c67e5c431",
+			"name": "update-map-using-var",
+			"url": "http://localhost:5082/api/maps/5",
+			"time": 369,
+			"responseCode": {
+				"code": 204,
+				"name": "No Content"
+			},
+			"tests": {
+				"Response status code is 204": true,
+				"Content-Type header should not exist": true,
+				"Response body should be null": true,
+				"Verify that the HTTP method used is PUT": true,
+				"Validate that the response body is empty": true,
+				"Verify the request URL pattern is correct": true
+			},
+			"testPassFailCounts": {
+				"Response status code is 204": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type header should not exist": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response body should be null": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Verify that the HTTP method used is PUT": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Validate that the response body is empty": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Verify the request URL pattern is correct": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				369
+			],
+			"allTests": [
+				{
+					"Response status code is 204": true,
+					"Content-Type header should not exist": true,
+					"Response body should be null": true,
+					"Verify that the HTTP method used is PUT": true,
+					"Validate that the response body is empty": true,
+					"Verify the request URL pattern is correct": true
+				}
+			]
+		},
+		{
+			"id": "5a3139be-91ea-4b89-9ad3-5f2c7c2a80aa",
+			"name": "add-new-user-using-var",
+			"url": "http://localhost:5082/api/users",
+			"time": 389,
+			"responseCode": {
+				"code": 201,
+				"name": "Created"
+			},
+			"tests": {
+				"Response status code is 201": true,
+				"Email is in a valid format": true,
+				"Description is either null or a non-empty string": true,
+				"Role is a non-empty string": true,
+				"Response body is not empty": true,
+				"Response body contains the newly created users": true,
+				"Test newly created user name": true,
+				"Check a newly created resource URL to be in the Location HTTP header": true
+			},
+			"testPassFailCounts": {
+				"Response status code is 201": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Email is in a valid format": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Description is either null or a non-empty string": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Role is a non-empty string": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response body is not empty": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response body contains the newly created users": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Test newly created user name": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Check a newly created resource URL to be in the Location HTTP header": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				389
+			],
+			"allTests": [
+				{
+					"Response status code is 201": true,
+					"Email is in a valid format": true,
+					"Description is either null or a non-empty string": true,
+					"Role is a non-empty string": true,
+					"Response body is not empty": true,
+					"Response body contains the newly created users": true,
+					"Test newly created user name": true,
+					"Check a newly created resource URL to be in the Location HTTP header": true
+				}
+			]
+		},
+		{
+			"id": "4e31377e-9753-4313-8dad-6cb4e9e1d1b8",
+			"name": "delete-robot-command-for-var",
+			"url": "http://localhost:5082/api/robot-commands/7",
+			"time": 438,
+			"responseCode": {
+				"code": 204,
+				"name": "No Content"
+			},
+			"tests": {
+				"Response status code is 204": true,
+				"Content-Type header should not exist": true,
+				"Response body is null": true,
+				"Validate that the request has been successfully processed and the resource has been deleted": true,
+				"Ensure that the response does not contain any data or error message": true
+			},
+			"testPassFailCounts": {
+				"Response status code is 204": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type header should not exist": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response body is null": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Validate that the request has been successfully processed and the resource has been deleted": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Ensure that the response does not contain any data or error message": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				438
+			],
+			"allTests": [
+				{
+					"Response status code is 204": true,
+					"Content-Type header should not exist": true,
+					"Response body is null": true,
+					"Validate that the request has been successfully processed and the resource has been deleted": true,
+					"Ensure that the response does not contain any data or error message": true
+				}
+			]
+		},
+		{
+			"id": "e895ba86-24c8-4d84-99ed-5ebc1b8cf922",
+			"name": "delete-map-for-var",
+			"url": "http://localhost:5082/api/maps/5",
+			"time": 329,
+			"responseCode": {
+				"code": 204,
+				"name": "No Content"
+			},
+			"tests": {
+				"Response status code is 204": true,
+				"Content-Type header should not exist": true,
+				"Response body is null": true,
+				"Verify that the response does not contain any sensitive information": true
+			},
+			"testPassFailCounts": {
+				"Response status code is 204": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type header should not exist": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response body is null": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Verify that the response does not contain any sensitive information": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				329
+			],
+			"allTests": [
+				{
+					"Response status code is 204": true,
+					"Content-Type header should not exist": true,
+					"Response body is null": true,
+					"Verify that the response does not contain any sensitive information": true
+				}
+			]
+		},
+		{
+			"id": "23b20af4-75b5-4c92-8063-0753db79693f",
+			"name": "delete-user-for-var",
+			"url": "http://localhost:5082/api/users/4",
+			"time": 323,
+			"responseCode": {
+				"code": 204,
+				"name": "No Content"
+			},
+			"tests": {
+				"Response status code is 204": true,
+				"Content-Type header should not exist": true,
+				"Response body is null": true,
+				"Verify that user with the given ID is deleted from the system": true,
+				"Ensure response does not contain sensitive information": true
+			},
+			"testPassFailCounts": {
+				"Response status code is 204": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type header should not exist": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response body is null": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Verify that user with the given ID is deleted from the system": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Ensure response does not contain sensitive information": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				323
+			],
+			"allTests": [
+				{
+					"Response status code is 204": true,
+					"Content-Type header should not exist": true,
+					"Response body is null": true,
+					"Verify that user with the given ID is deleted from the system": true,
+					"Ensure response does not contain sensitive information": true
+				}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 21079,
+	"collection": {
+		"requests": [
+			{
+				"id": "62179f8b-7d28-49f4-98d9-389749b9c8f5",
+				"method": "GET"
+			},
+			{
+				"id": "ee1e31e3-fc77-4e86-bc28-4c9a54018f83",
+				"method": "GET"
+			},
+			{
+				"id": "a71bab82-0c57-4e10-af01-04d238ce2e8d",
+				"method": "GET"
+			},
+			{
+				"id": "57eefe12-bb57-4a6d-926f-5c8885aed671",
+				"method": "POST"
+			},
+			{
+				"id": "a27e47ff-804f-488b-9735-b9807c831c2f",
+				"method": "PUT"
+			},
+			{
+				"id": "c3bda406-61c3-41da-b16f-cdfbecd189a5",
+				"method": "DELETE"
+			},
+			{
+				"id": "ff6e80d8-cdfe-40fc-990d-1ea2ef0676ff",
+				"method": "GET"
+			},
+			{
+				"id": "a5d290be-aa69-4231-8a8a-99f5b28158b1",
+				"method": "GET"
+			},
+			{
+				"id": "fc82bbe1-4b6f-41e8-831a-f31a575f964e",
+				"method": "GET"
+			},
+			{
+				"id": "089605b2-21d7-4fa5-a9d8-325d3893abab",
+				"method": "POST"
+			},
+			{
+				"id": "cf0e9e73-936d-4da8-8d68-ad59353941f0",
+				"method": "PUT"
+			},
+			{
+				"id": "9f43da9a-9912-44b3-bde8-5c101616ffc0",
+				"method": "DELETE"
+			},
+			{
+				"id": "8a21d96d-62bb-4003-a3e2-264997020bd9",
+				"method": "GET"
+			},
+			{
+				"id": "9ff21f08-e174-4e5b-8dbe-50bce465aa27",
+				"method": "GET"
+			},
+			{
+				"id": "8a9812e4-78cc-4f64-a783-c547d2cee1b1",
+				"method": "POST"
+			},
+			{
+				"id": "93a708b3-bfe5-43bd-82ed-d6e51b878a86",
+				"method": "PUT"
+			},
+			{
+				"id": "9297a11c-9921-43ef-8e3a-b812fc5b5d7e",
+				"method": "PATCH"
+			},
+			{
+				"id": "c7cc297f-64c9-4d5e-bf83-9650dd1d14e7",
+				"method": "DELETE"
+			},
+			{
+				"id": "feea8f7c-2ca8-468a-a65e-31b53827d3ad",
+				"method": "GET"
+			},
+			{
+				"id": "90386582-39fb-497a-b574-91509537a6d1",
+				"method": "GET"
+			},
+			{
+				"id": "0d49d914-31b4-4c3f-9ddb-777055f3b6b2",
+				"method": "POST"
+			},
+			{
+				"id": "365e1112-964c-4524-925f-26706326da03",
+				"method": "PUT"
+			},
+			{
+				"id": "876f89ff-af2f-44f9-9b5f-cefdef0e4199",
+				"method": "POST"
+			},
+			{
+				"id": "f70fd3e1-e26a-4878-836e-299c67e5c431",
+				"method": "PUT"
+			},
+			{
+				"id": "5a3139be-91ea-4b89-9ad3-5f2c7c2a80aa",
+				"method": "POST"
+			},
+			{
+				"id": "4e31377e-9753-4313-8dad-6cb4e9e1d1b8",
+				"method": "DELETE"
+			},
+			{
+				"id": "e895ba86-24c8-4d84-99ed-5ebc1b8cf922",
+				"method": "DELETE"
+			},
+			{
+				"id": "23b20af4-75b5-4c92-8063-0753db79693f",
+				"method": "DELETE"
+			}
+		]
+	}
+}

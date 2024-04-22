@@ -1,0 +1,136 @@
+E:\C#\Backend\robot-controller-api\bin\Debug\net7.0\appsettings.Development.json
+E:\C#\Backend\robot-controller-api\bin\Debug\net7.0\appsettings.json
+E:\C#\Backend\robot-controller-api\bin\Debug\net7.0\robot-controller-api.exe
+E:\C#\Backend\robot-controller-api\bin\Debug\net7.0\robot-controller-api.deps.json
+E:\C#\Backend\robot-controller-api\bin\Debug\net7.0\robot-controller-api.runtimeconfig.json
+E:\C#\Backend\robot-controller-api\bin\Debug\net7.0\robot-controller-api.dll
+E:\C#\Backend\robot-controller-api\bin\Debug\net7.0\robot-controller-api.pdb
+E:\C#\Backend\robot-controller-api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\C#\Backend\robot-controller-api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\C#\Backend\robot-controller-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\C#\Backend\robot-controller-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\C#\Backend\robot-controller-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\C#\Backend\robot-controller-api\obj\Debug\net7.0\robot-controller-api.csproj.AssemblyReference.cache
+E:\C#\Backend\robot-controller-api\obj\Debug\net7.0\robot-controller-api.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Backend\robot-controller-api\obj\Debug\net7.0\robot-controller-api.AssemblyInfoInputs.cache
+E:\C#\Backend\robot-controller-api\obj\Debug\net7.0\robot-controller-api.AssemblyInfo.cs
+E:\C#\Backend\robot-controller-api\obj\Debug\net7.0\robot-controller-api.csproj.CoreCompileInputs.cache
+E:\C#\Backend\robot-controller-api\obj\Debug\net7.0\robot-controller-api.MvcApplicationPartsAssemblyInfo.cs
+E:\C#\Backend\robot-controller-api\obj\Debug\net7.0\robot-controller-api.MvcApplicationPartsAssemblyInfo.cache
+E:\C#\Backend\robot-controller-api\obj\Debug\net7.0\staticwebassets\msbuild.robot-controller-api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\C#\Backend\robot-controller-api\obj\Debug\net7.0\staticwebassets\msbuild.build.robot-controller-api.props
+E:\C#\Backend\robot-controller-api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.robot-controller-api.props
+E:\C#\Backend\robot-controller-api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.robot-controller-api.props
+E:\C#\Backend\robot-controller-api\obj\Debug\net7.0\staticwebassets.pack.json
+E:\C#\Backend\robot-controller-api\obj\Debug\net7.0\staticwebassets.build.json
+E:\C#\Backend\robot-controller-api\obj\Debug\net7.0\staticwebassets.development.json
+E:\C#\Backend\robot-controller-api\obj\Debug\net7.0\scopedcss\bundle\robot-controller-api.styles.css
+E:\C#\Backend\robot-controller-api\obj\Debug\net7.0\robot-controller-api.csproj.CopyComplete
+E:\C#\Backend\robot-controller-api\obj\Debug\net7.0\robot-controller-api.dll
+E:\C#\Backend\robot-controller-api\obj\Debug\net7.0\refint\robot-controller-api.dll
+E:\C#\Backend\robot-controller-api\obj\Debug\net7.0\robot-controller-api.pdb
+E:\C#\Backend\robot-controller-api\obj\Debug\net7.0\robot-controller-api.genruntimeconfig.cache
+E:\C#\Backend\robot-controller-api\obj\Debug\net7.0\ref\robot-controller-api.dll
+E:\C#\robot-controller-api (persistance layer)\bin\Debug\net7.0\appsettings.Development.json
+E:\C#\robot-controller-api (persistance layer)\bin\Debug\net7.0\appsettings.json
+E:\C#\robot-controller-api (persistance layer)\bin\Debug\net7.0\robot-controller-api.exe
+E:\C#\robot-controller-api (persistance layer)\bin\Debug\net7.0\robot-controller-api.deps.json
+E:\C#\robot-controller-api (persistance layer)\bin\Debug\net7.0\robot-controller-api.runtimeconfig.json
+E:\C#\robot-controller-api (persistance layer)\bin\Debug\net7.0\robot-controller-api.dll
+E:\C#\robot-controller-api (persistance layer)\bin\Debug\net7.0\robot-controller-api.pdb
+E:\C#\robot-controller-api (persistance layer)\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\C#\robot-controller-api (persistance layer)\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\C#\robot-controller-api (persistance layer)\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\C#\robot-controller-api (persistance layer)\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\C#\robot-controller-api (persistance layer)\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\C#\robot-controller-api (persistance layer)\obj\Debug\net7.0\robot-controller-api.csproj.AssemblyReference.cache
+E:\C#\robot-controller-api (persistance layer)\obj\Debug\net7.0\robot-controller-api.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\robot-controller-api (persistance layer)\obj\Debug\net7.0\robot-controller-api.AssemblyInfoInputs.cache
+E:\C#\robot-controller-api (persistance layer)\obj\Debug\net7.0\robot-controller-api.AssemblyInfo.cs
+E:\C#\robot-controller-api (persistance layer)\obj\Debug\net7.0\robot-controller-api.csproj.CoreCompileInputs.cache
+E:\C#\robot-controller-api (persistance layer)\obj\Debug\net7.0\robot-controller-api.MvcApplicationPartsAssemblyInfo.cs
+E:\C#\robot-controller-api (persistance layer)\obj\Debug\net7.0\robot-controller-api.MvcApplicationPartsAssemblyInfo.cache
+E:\C#\robot-controller-api (persistance layer)\obj\Debug\net7.0\staticwebassets\msbuild.robot-controller-api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\C#\robot-controller-api (persistance layer)\obj\Debug\net7.0\staticwebassets\msbuild.build.robot-controller-api.props
+E:\C#\robot-controller-api (persistance layer)\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.robot-controller-api.props
+E:\C#\robot-controller-api (persistance layer)\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.robot-controller-api.props
+E:\C#\robot-controller-api (persistance layer)\obj\Debug\net7.0\staticwebassets.pack.json
+E:\C#\robot-controller-api (persistance layer)\obj\Debug\net7.0\staticwebassets.build.json
+E:\C#\robot-controller-api (persistance layer)\obj\Debug\net7.0\staticwebassets.development.json
+E:\C#\robot-controller-api (persistance layer)\obj\Debug\net7.0\scopedcss\bundle\robot-controller-api.styles.css
+E:\C#\robot-controller-api (persistance layer)\obj\Debug\net7.0\robot-controller-api.csproj.CopyComplete
+E:\C#\robot-controller-api (persistance layer)\obj\Debug\net7.0\robot-controller-api.dll
+E:\C#\robot-controller-api (persistance layer)\obj\Debug\net7.0\refint\robot-controller-api.dll
+E:\C#\robot-controller-api (persistance layer)\obj\Debug\net7.0\robot-controller-api.pdb
+E:\C#\robot-controller-api (persistance layer)\obj\Debug\net7.0\robot-controller-api.genruntimeconfig.cache
+E:\C#\robot-controller-api (persistance layer)\obj\Debug\net7.0\ref\robot-controller-api.dll
+E:\C#\robot-controller-api (persistance layer)\bin\Debug\net7.0\Npgsql.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (persistence layer)\obj\Debug\net7.0\robot-controller-api.csproj.AssemblyReference.cache
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (persistence layer)\obj\Debug\net7.0\robot-controller-api.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (persistence layer)\obj\Debug\net7.0\robot-controller-api.AssemblyInfoInputs.cache
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (persistence layer)\obj\Debug\net7.0\robot-controller-api.AssemblyInfo.cs
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (persistence layer)\obj\Debug\net7.0\robot-controller-api.csproj.CoreCompileInputs.cache
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (persistence layer)\obj\Debug\net7.0\robot-controller-api.MvcApplicationPartsAssemblyInfo.cs
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (persistence layer)\obj\Debug\net7.0\robot-controller-api.MvcApplicationPartsAssemblyInfo.cache
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (persistence layer)\obj\Debug\net7.0\robot-controller-api.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (persistence layer)\obj\Debug\net7.0\refint\robot-controller-api.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (persistence layer)\obj\Debug\net7.0\robot-controller-api.pdb
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (persistence layer)\bin\Debug\net7.0\appsettings.Development.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (persistence layer)\bin\Debug\net7.0\appsettings.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (persistence layer)\bin\Debug\net7.0\robot-controller-api.exe
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (persistence layer)\bin\Debug\net7.0\robot-controller-api.deps.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (persistence layer)\bin\Debug\net7.0\robot-controller-api.runtimeconfig.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (persistence layer)\bin\Debug\net7.0\robot-controller-api.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (persistence layer)\bin\Debug\net7.0\robot-controller-api.pdb
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (persistence layer)\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (persistence layer)\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (persistence layer)\bin\Debug\net7.0\Npgsql.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (persistence layer)\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (persistence layer)\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (persistence layer)\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (persistence layer)\obj\Debug\net7.0\staticwebassets\msbuild.robot-controller-api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (persistence layer)\obj\Debug\net7.0\staticwebassets\msbuild.build.robot-controller-api.props
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (persistence layer)\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.robot-controller-api.props
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (persistence layer)\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.robot-controller-api.props
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (persistence layer)\obj\Debug\net7.0\staticwebassets.pack.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (persistence layer)\obj\Debug\net7.0\staticwebassets.build.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (persistence layer)\obj\Debug\net7.0\staticwebassets.development.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (persistence layer)\obj\Debug\net7.0\scopedcss\bundle\robot-controller-api.styles.css
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (persistence layer)\obj\Debug\net7.0\robot-controller-api.csproj.CopyComplete
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (persistence layer)\obj\Debug\net7.0\robot-controller-api.genruntimeconfig.cache
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (persistence layer)\obj\Debug\net7.0\ref\robot-controller-api.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (orm)\obj\Debug\net7.0\robot-controller-api.csproj.AssemblyReference.cache
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (orm)\obj\Debug\net7.0\robot-controller-api.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (orm)\obj\Debug\net7.0\robot-controller-api.AssemblyInfoInputs.cache
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (orm)\obj\Debug\net7.0\robot-controller-api.AssemblyInfo.cs
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (orm)\obj\Debug\net7.0\robot-controller-api.csproj.CoreCompileInputs.cache
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (orm)\obj\Debug\net7.0\robot-controller-api.MvcApplicationPartsAssemblyInfo.cs
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (orm)\obj\Debug\net7.0\robot-controller-api.MvcApplicationPartsAssemblyInfo.cache
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (orm)\obj\Debug\net7.0\robot-controller-api.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (orm)\obj\Debug\net7.0\refint\robot-controller-api.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (orm)\obj\Debug\net7.0\robot-controller-api.pdb
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (orm)\bin\Debug\net7.0\appsettings.Development.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (orm)\bin\Debug\net7.0\appsettings.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (orm)\bin\Debug\net7.0\robot-controller-api.exe
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (orm)\bin\Debug\net7.0\robot-controller-api.deps.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (orm)\bin\Debug\net7.0\robot-controller-api.runtimeconfig.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (orm)\bin\Debug\net7.0\robot-controller-api.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (orm)\bin\Debug\net7.0\robot-controller-api.pdb
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (orm)\bin\Debug\net7.0\FastMember.Signed.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (orm)\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (orm)\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (orm)\bin\Debug\net7.0\Npgsql.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (orm)\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (orm)\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (orm)\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (orm)\obj\Debug\net7.0\staticwebassets\msbuild.robot-controller-api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (orm)\obj\Debug\net7.0\staticwebassets\msbuild.build.robot-controller-api.props
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (orm)\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.robot-controller-api.props
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (orm)\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.robot-controller-api.props
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (orm)\obj\Debug\net7.0\staticwebassets.pack.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (orm)\obj\Debug\net7.0\staticwebassets.build.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (orm)\obj\Debug\net7.0\staticwebassets.development.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (orm)\obj\Debug\net7.0\scopedcss\bundle\robot-controller-api.styles.css
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (orm)\obj\Debug\net7.0\robot-controller-api.csproj.CopyComplete
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (orm)\obj\Debug\net7.0\robot-controller-api.genruntimeconfig.cache
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (orm)\obj\Debug\net7.0\ref\robot-controller-api.dll

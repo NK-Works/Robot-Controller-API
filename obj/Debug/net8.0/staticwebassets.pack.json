@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\C#\\Backend\\SIT331 - Tasks\\robot-controller-api (testing)\\wwwroot\\images\\deakin-logo.png",
+      "PackagePath": "staticwebassets\\images\\deakin-logo.png"
+    },
+    {
+      "Id": "E:\\C#\\Backend\\SIT331 - Tasks\\robot-controller-api (testing)\\wwwroot\\styles\\robot.css",
+      "PackagePath": "staticwebassets\\styles\\robot.css"
+    },
+    {
+      "Id": "E:\\C#\\Backend\\SIT331 - Tasks\\robot-controller-api (testing)\\wwwroot\\styles\\theme-custom-anneshu.css",
+      "PackagePath": "staticwebassets\\styles\\theme-custom-anneshu.css"
+    },
+    {
+      "Id": "E:\\C#\\Backend\\SIT331 - Tasks\\robot-controller-api (testing)\\wwwroot\\styles\\theme-feeling-blue.css",
+      "PackagePath": "staticwebassets\\styles\\theme-feeling-blue.css"
+    },
+    {
+      "Id": "E:\\C#\\Backend\\SIT331 - Tasks\\robot-controller-api (testing)\\wwwroot\\styles\\theme-flattop.css",
+      "PackagePath": "staticwebassets\\styles\\theme-flattop.css"
+    },
+    {
+      "Id": "E:\\C#\\Backend\\SIT331 - Tasks\\robot-controller-api (testing)\\wwwroot\\styles\\theme-material.css",
+      "PackagePath": "staticwebassets\\styles\\theme-material.css"
+    },
+    {
+      "Id": "E:\\C#\\Backend\\SIT331 - Tasks\\robot-controller-api (testing)\\wwwroot\\styles\\theme-monokai.css",
+      "PackagePath": "staticwebassets\\styles\\theme-monokai.css"
+    },
+    {
+      "Id": "E:\\C#\\Backend\\SIT331 - Tasks\\robot-controller-api (testing)\\wwwroot\\styles\\theme-muted.css",
+      "PackagePath": "staticwebassets\\styles\\theme-muted.css"
+    },
+    {
+      "Id": "E:\\C#\\Backend\\SIT331 - Tasks\\robot-controller-api (testing)\\wwwroot\\styles\\theme-newspaper.css",
+      "PackagePath": "staticwebassets\\styles\\theme-newspaper.css"
+    },
+    {
+      "Id": "E:\\C#\\Backend\\SIT331 - Tasks\\robot-controller-api (testing)\\wwwroot\\styles\\theme-outline.css",
+      "PackagePath": "staticwebassets\\styles\\theme-outline.css"
+    },
+    {
+      "Id": "E:\\C#\\Backend\\SIT331 - Tasks\\robot-controller-api (testing)\\wwwroot\\swagger\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\swagger\\favicon-16x16.png"
+    },
+    {
+      "Id": "E:\\C#\\Backend\\SIT331 - Tasks\\robot-controller-api (testing)\\wwwroot\\swagger\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\swagger\\favicon-32x32.png"
+    },
+    {
+      "Id": "E:\\C#\\Backend\\SIT331 - Tasks\\robot-controller-api (testing)\\wwwroot\\swagger\\favicon.ico",
+      "PackagePath": "staticwebassets\\swagger\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.robot-controller-api.props",
+      "PackagePath": "build\\robot-controller-api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.robot-controller-api.props",
+      "PackagePath": "buildMultiTargeting\\robot-controller-api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.robot-controller-api.props",
+      "PackagePath": "buildTransitive\\robot-controller-api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.robot-controller-api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

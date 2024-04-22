@@ -1,0 +1,68 @@
+GetAllRobotCommands:
+
+ Executed DbCommand (132ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+ SELECT r.id, r.createddate, r.description, r.ismovecommand, r.modifieddate, r."Name"
+ FROM robotcommand AS r
+
+GetMoveCommandsOnly:
+ Executed DbCommand (5ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+ SELECT r.id, r.createddate, r.description, r.ismovecommand, r.modifieddate, r."Name"
+ FROM robotcommand AS r
+
+GetRobotCommandById:
+ Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+ SELECT r.id, r.createddate, r.description, r.ismovecommand, r.modifieddate, r."Name"
+ FROM robotcommand AS r
+
+AddRobotCommand:
+ Executed DbCommand (384ms) [Parameters=[@p0='2024-03-03T11:54:33.3768025+05:30' (Nullable = true), @p1='Robot blinks.', @p2='False', @p3='2024-03-03T11:54:33.3769971+05:30' (Nullable = true), @p4='BLINKS' (Nullable = false)], CommandType='Text', CommandTimeout='30']
+ INSERT INTO robotcommand (createddate, description, ismovecommand, modifieddate, "Name")
+ VALUES (@p0, @p1, @p2, @p3, @p4)
+ RETURNING id;
+
+UpdateRobotCommand:
+ Executed DbCommand (106ms) [Parameters=[@p4='17', @p0='Robot jumps.', @p1='True', @p2='2024-03-03T11:57:24.5352937+05:30' (Nullable = true), @p3='JUMP' (Nullable = false)], CommandType='Text', CommandTimeout='30']
+ UPDATE robotcommand SET description = @p0, ismovecommand = @p1, modifieddate = @p2, "Name" = @p3
+ WHERE id = @p4;
+
+DeleteRobotCommand:
+ Executed DbCommand (1ms) [Parameters=[@p0='17'], CommandType='Text', CommandTimeout='30']
+ DELETE FROM robotcommand
+ WHERE id = @p0;
+
+GetAllMaps:
+ Executed DbCommand (104ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+ SELECT m.id, m.columns, m.createddate, m.description, m.issquare, m.modifieddate, m."Name", m.rows
+ FROM map AS m
+
+GetSquareMaps:
+ Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+ SELECT m.id, m.columns, m.createddate, m.description, m.issquare, m.modifieddate, m."Name", m.rows
+ FROM map AS m
+
+GetMapById:
+ Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+ SELECT m.id, m.columns, m.createddate, m.description, m.issquare, m.modifieddate, m."Name", m.rows
+ FROM map AS m
+
+AddMap:
+ Executed DbCommand (70ms) [Parameters=[@p0='50', @p1='2024-03-03T12:03:07.6556471+05:30' (Nullable = true), @p2='Map test run', @p3='2024-03-03T12:03:07.6557839+05:30' (Nullable = true), @p4='50x50 Map' (Nullable = false), @p5='50'], CommandType='Text', CommandTimeout='30']
+ INSERT INTO map (columns, createddate, description, modifieddate, "Name", rows)
+ VALUES (@p0, @p1, @p2, @p3, @p4, @p5)
+ RETURNING id, issquare;
+
+UpdateMap:
+ Executed DbCommand (58ms) [Parameters=[@p4='13', @p0='60', @p1='2024-03-03T12:03:52.3844959+05:30' (Nullable = true), @p2='50x100' (Nullable = false), @p3='100'], CommandType='Text', CommandTimeout='30']
+ UPDATE map SET columns = @p0, modifieddate = @p1, "Name" = @p2, rows = @p3
+ WHERE id = @p4
+ RETURNING issquare;
+
+DeleteMap:
+ Executed DbCommand (1ms) [Parameters=[@p0='13'], CommandType='Text', CommandTimeout='30']
+ DELETE FROM map
+ WHERE id = @p0;
+
+CheckCoordinate:
+ Executed DbCommand (9ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+ SELECT m.id, m.columns, m.createddate, m.description, m.issquare, m.modifieddate, m."Name", m.rows
+ FROM map AS m

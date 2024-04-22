@@ -1,0 +1,579 @@
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\appsettings.Development.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\appsettings.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\robot-controller-api.exe
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\robot-controller-api.deps.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\robot-controller-api.runtimeconfig.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\robot-controller-api.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\robot-controller-api.pdb
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\FastMember.Signed.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\Humanizer.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\Npgsql.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\System.CodeDom.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\obj\Debug\net8.0\robot-controller-api.csproj.AssemblyReference.cache
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\obj\Debug\net8.0\robot-controller-api.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\obj\Debug\net8.0\robot-controller-api.AssemblyInfoInputs.cache
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\obj\Debug\net8.0\robot-controller-api.AssemblyInfo.cs
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\obj\Debug\net8.0\robot-controller-api.csproj.CoreCompileInputs.cache
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\obj\Debug\net8.0\robot-controller-api.MvcApplicationPartsAssemblyInfo.cs
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\obj\Debug\net8.0\robot-controller-api.MvcApplicationPartsAssemblyInfo.cache
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\obj\Debug\net8.0\staticwebassets.build.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\obj\Debug\net8.0\staticwebassets.development.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\obj\Debug\net8.0\staticwebassets\msbuild.robot-controller-api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\obj\Debug\net8.0\staticwebassets\msbuild.build.robot-controller-api.props
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.robot-controller-api.props
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.robot-controller-api.props
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\obj\Debug\net8.0\staticwebassets.pack.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\obj\Debug\net8.0\scopedcss\bundle\robot-controller-api.styles.css
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\obj\Debug\net8.0\robot-co.046F2A72.Up2Date
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\obj\Debug\net8.0\robot-controller-api.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\obj\Debug\net8.0\refint\robot-controller-api.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\obj\Debug\net8.0\robot-controller-api.pdb
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\obj\Debug\net8.0\robot-controller-api.genruntimeconfig.cache
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (advanced orm)\obj\Debug\net8.0\ref\robot-controller-api.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\appsettings.Development.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\appsettings.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\robot-controller-api.exe
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\robot-controller-api.deps.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\robot-controller-api.runtimeconfig.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\robot-controller-api.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\robot-controller-api.pdb
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\FastMember.Signed.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\Humanizer.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\Npgsql.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\System.CodeDom.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\obj\Debug\net8.0\robot-controller-api.csproj.AssemblyReference.cache
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\obj\Debug\net8.0\robot-controller-api.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\obj\Debug\net8.0\robot-controller-api.AssemblyInfoInputs.cache
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\obj\Debug\net8.0\robot-controller-api.AssemblyInfo.cs
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\obj\Debug\net8.0\robot-controller-api.csproj.CoreCompileInputs.cache
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\obj\Debug\net8.0\robot-controller-api.MvcApplicationPartsAssemblyInfo.cs
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\obj\Debug\net8.0\robot-controller-api.MvcApplicationPartsAssemblyInfo.cache
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\obj\Debug\net8.0\staticwebassets.build.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\obj\Debug\net8.0\staticwebassets.development.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\obj\Debug\net8.0\staticwebassets\msbuild.robot-controller-api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\obj\Debug\net8.0\staticwebassets\msbuild.build.robot-controller-api.props
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.robot-controller-api.props
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.robot-controller-api.props
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\obj\Debug\net8.0\staticwebassets.pack.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\obj\Debug\net8.0\scopedcss\bundle\robot-controller-api.styles.css
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\obj\Debug\net8.0\robot-co.046F2A72.Up2Date
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\obj\Debug\net8.0\robot-controller-api.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\obj\Debug\net8.0\refint\robot-controller-api.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\obj\Debug\net8.0\robot-controller-api.pdb
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\obj\Debug\net8.0\robot-controller-api.genruntimeconfig.cache
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\obj\Debug\net8.0\ref\robot-controller-api.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\robot-controller-api.staticwebassets.runtime.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\robot-controller-api.xml
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\obj\Debug\net8.0\robot-controller-api.xml
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (doc)\bin\Debug\net8.0\swagger.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\appsettings.Development.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\appsettings.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\swagger.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\robot-controller-api.staticwebassets.runtime.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\robot-controller-api.exe
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\robot-controller-api.deps.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\robot-controller-api.runtimeconfig.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\robot-controller-api.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\robot-controller-api.pdb
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\robot-controller-api.xml
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\FastMember.Signed.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\Humanizer.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\Npgsql.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\System.CodeDom.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\obj\Debug\net8.0\robot-controller-api.csproj.AssemblyReference.cache
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\obj\Debug\net8.0\robot-controller-api.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\obj\Debug\net8.0\robot-controller-api.AssemblyInfoInputs.cache
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\obj\Debug\net8.0\robot-controller-api.AssemblyInfo.cs
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\obj\Debug\net8.0\robot-controller-api.csproj.CoreCompileInputs.cache
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\obj\Debug\net8.0\robot-controller-api.MvcApplicationPartsAssemblyInfo.cs
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\obj\Debug\net8.0\robot-controller-api.MvcApplicationPartsAssemblyInfo.cache
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\obj\Debug\net8.0\staticwebassets.build.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\obj\Debug\net8.0\staticwebassets.development.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\obj\Debug\net8.0\staticwebassets\msbuild.robot-controller-api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\obj\Debug\net8.0\staticwebassets\msbuild.build.robot-controller-api.props
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.robot-controller-api.props
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.robot-controller-api.props
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\obj\Debug\net8.0\staticwebassets.pack.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\obj\Debug\net8.0\scopedcss\bundle\robot-controller-api.styles.css
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\obj\Debug\net8.0\robot-co.046F2A72.Up2Date
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\obj\Debug\net8.0\robot-controller-api.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\obj\Debug\net8.0\refint\robot-controller-api.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\obj\Debug\net8.0\robot-controller-api.xml
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\obj\Debug\net8.0\robot-controller-api.pdb
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\obj\Debug\net8.0\robot-controller-api.genruntimeconfig.cache
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\obj\Debug\net8.0\ref\robot-controller-api.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (auth)\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\appsettings.Development.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\appsettings.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\swagger.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\robot-controller-api.staticwebassets.runtime.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\robot-controller-api.exe
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\robot-controller-api.deps.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\robot-controller-api.runtimeconfig.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\robot-controller-api.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\robot-controller-api.pdb
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\robot-controller-api.xml
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\EntityFrameworkCore.Scaffolding.Handlebars.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\FastMember.Signed.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\Handlebars.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\Humanizer.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\JetBrains.Annotations.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\Npgsql.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\System.CodeDom.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\obj\Debug\net8.0\robot-controller-api.csproj.AssemblyReference.cache
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\obj\Debug\net8.0\robot-controller-api.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\obj\Debug\net8.0\robot-controller-api.AssemblyInfoInputs.cache
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\obj\Debug\net8.0\robot-controller-api.AssemblyInfo.cs
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\obj\Debug\net8.0\robot-controller-api.csproj.CoreCompileInputs.cache
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\obj\Debug\net8.0\robot-controller-api.MvcApplicationPartsAssemblyInfo.cs
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\obj\Debug\net8.0\robot-controller-api.MvcApplicationPartsAssemblyInfo.cache
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\obj\Debug\net8.0\staticwebassets.build.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\obj\Debug\net8.0\staticwebassets.development.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\obj\Debug\net8.0\staticwebassets\msbuild.robot-controller-api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\obj\Debug\net8.0\staticwebassets\msbuild.build.robot-controller-api.props
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.robot-controller-api.props
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.robot-controller-api.props
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\obj\Debug\net8.0\staticwebassets.pack.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\obj\Debug\net8.0\scopedcss\bundle\robot-controller-api.styles.css
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\obj\Debug\net8.0\robot-co.046F2A72.Up2Date
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\obj\Debug\net8.0\robot-controller-api.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\obj\Debug\net8.0\refint\robot-controller-api.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\obj\Debug\net8.0\robot-controller-api.xml
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\obj\Debug\net8.0\robot-controller-api.pdb
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\obj\Debug\net8.0\robot-controller-api.genruntimeconfig.cache
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (reverse_eng_template)\obj\Debug\net8.0\ref\robot-controller-api.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\appsettings.Development.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\appsettings.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\swagger.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\robot-controller-api.staticwebassets.runtime.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\robot-controller-api.exe
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\robot-controller-api.deps.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\robot-controller-api.runtimeconfig.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\robot-controller-api.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\robot-controller-api.pdb
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\robot-controller-api.xml
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\EntityFrameworkCore.Scaffolding.Handlebars.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\FastMember.Signed.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\Handlebars.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\Humanizer.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\JetBrains.Annotations.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\Npgsql.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\System.CodeDom.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\obj\Debug\net8.0\robot-controller-api.csproj.AssemblyReference.cache
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\obj\Debug\net8.0\robot-controller-api.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\obj\Debug\net8.0\robot-controller-api.AssemblyInfoInputs.cache
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\obj\Debug\net8.0\robot-controller-api.AssemblyInfo.cs
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\obj\Debug\net8.0\robot-controller-api.csproj.CoreCompileInputs.cache
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\obj\Debug\net8.0\robot-controller-api.MvcApplicationPartsAssemblyInfo.cs
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\obj\Debug\net8.0\robot-controller-api.MvcApplicationPartsAssemblyInfo.cache
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\obj\Debug\net8.0\staticwebassets.build.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\obj\Debug\net8.0\staticwebassets.development.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\obj\Debug\net8.0\staticwebassets\msbuild.robot-controller-api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\obj\Debug\net8.0\staticwebassets\msbuild.build.robot-controller-api.props
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.robot-controller-api.props
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.robot-controller-api.props
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\obj\Debug\net8.0\staticwebassets.pack.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\obj\Debug\net8.0\scopedcss\bundle\robot-controller-api.styles.css
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\obj\Debug\net8.0\robot-co.046F2A72.Up2Date
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\obj\Debug\net8.0\robot-controller-api.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\obj\Debug\net8.0\refint\robot-controller-api.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\obj\Debug\net8.0\robot-controller-api.xml
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\obj\Debug\net8.0\robot-controller-api.pdb
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\obj\Debug\net8.0\robot-controller-api.genruntimeconfig.cache
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\obj\Debug\net8.0\ref\robot-controller-api.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\Tests\Full_Web_API.postman_collection.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\Tests\Full_Web_API.postman_test_run.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\Tests\Local.postman_environment.json
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\Isopoh.Cryptography.Argon2.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\Isopoh.Cryptography.Blake2b.dll
+E:\C#\Backend\SIT331 - Tasks\robot-controller-api (testing)\bin\Debug\net8.0\Isopoh.Cryptography.SecureArray.dll
